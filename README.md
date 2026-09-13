@@ -27,6 +27,7 @@
 .
 ├── docs/
 │   └── 1. 프로젝트 일정.pdf
+│   └── 2. 공유오피스 3일 체험 결제 전환 예측 모델링 보고서.pdf
 ├── notebooks/
 │   ├── 01_prep_eda.ipynb      # 전처리·EDA·모델링 시행착오 기록
 │   └── 02_final_report.ipynb  # 정제된 최종 파이프라인·결과 보고서
